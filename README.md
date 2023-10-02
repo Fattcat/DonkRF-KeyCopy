@@ -16,5 +16,5 @@ PLEASE MAKE SURE YOU HAVE DOWNLOADED ALL
 
 
 1. Download this GitHub REPO.
-2. Upload .ino file to your Arduino nano board.
+2. Open Sketch name DonkRF-KeyCopy.ino and upload it to your Arduino nano board.
 3. I will finish it later (sry) ...
