@@ -2,6 +2,10 @@
 DonkRF-KeyCopy Bad Arduino code for steal cars.
 # DONT USE IT WITHOUT PERMISSION !
 
+# USE
+1. Capturing (433 MHz)
+2. Emulating (433 MHz)
+
 ## -- Installation Arduino --
 ### Necessary Libraries
 
