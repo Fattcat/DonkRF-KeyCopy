@@ -1,8 +1,8 @@
 # DonkRF-KeyCopy
 DonkRF-KeyCopy Bad Arduino code for steal cars.
-# DONT USE IT WITHOUT PERMOSSION !
+# DONT USE IT WITHOUT PERMISSION !
 
-## -- Installation --
+## -- Installation Arduino --
 ### Necessary Libraries
 
 1. SD.h
